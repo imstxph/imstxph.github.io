@@ -1,0 +1,12 @@
+ul li:nth-of-type(odd) {
+    color: white;
+    background-color:rgb(116, 195, 255);
+}
+
+ul li {
+    list-style: none;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 15px;
+    margin-right: 450px;
+    margin-left: 400px;
+}
